@@ -109,11 +109,11 @@ class tanvi:
 </div>
 
 ---
-
+<!-- 
 ## 📌 Featured Projects
 
 
----
+--- -->
 
 ## 📈 GitHub Analytics
 
@@ -186,9 +186,7 @@ class tanvi:
 ## 👾 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/viramgamatanvi-a11y
-/viramgamatanvi-a11y
-/blob/output/pacman-contribution-graph.svg" alt="Contribution Graph"/>
+  <img src="https://github.com/viramgamatanvi-a11y/viramgamatanvi-a11y/blob/output/pacman-contribution-graph.svg" alt="Contribution Graph"/>
 </p>
 
 ---
