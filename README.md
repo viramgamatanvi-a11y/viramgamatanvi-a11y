@@ -214,7 +214,7 @@ class tanvi:
 </td>
 
 <td align="center" width="250">
-<a href="https://github.com/meet6949">
+<a href="https://github.com/viramgamatanvi-a11y">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <br/>
@@ -225,12 +225,6 @@ class tanvi:
 
 <br/>
 
-### 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=meet6949&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
 ---
 
 
@@ -240,6 +234,6 @@ class tanvi:
 
 ### ⭐ Thanks for visiting my profile
 
-**From [tanviviramgama-a11y](https://github.com/meet6949)**
+**From [tanviviramgama-a11y](https://github.com/viramgamatanvi-a11y)**
 
 </div>
