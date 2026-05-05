@@ -119,9 +119,12 @@ class tanvi:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=meet6949&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=3b82f6&icon_color=38bdf8&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meet6949&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=38bdf8&currStreakLabel=38bdf8"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet6949&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viramgamatanvi-a11y
+&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=3b82f6&icon_color=38bdf8&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=viramgamatanvi-a11y
+&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=38bdf8&currStreakLabel=38bdf8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viramgamatanvi-a11y
+&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -183,7 +186,9 @@ class tanvi:
 ## 👾 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/meet6949/meet6949/blob/output/pacman-contribution-graph.svg" alt="Contribution Graph"/>
+  <img src="https://github.com/viramgamatanvi-a11y
+/viramgamatanvi-a11y
+/blob/output/pacman-contribution-graph.svg" alt="Contribution Graph"/>
 </p>
 
 ---
