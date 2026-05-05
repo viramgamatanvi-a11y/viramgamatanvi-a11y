@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Data Science Themed Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Meet%20Gajera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Future%20ML%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Tanvi%20Viramgama&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Future%20ML%20Engineer&descAlignY=58"/>
 
 
 <br/>
@@ -27,7 +27,7 @@
 <td width="55%">
 
 ```python
-class Meet:
+class tanvi:
     def __init__(self):
         self.role = "Aspiring Data Scientist"
         self.location = "India"
@@ -195,7 +195,7 @@ class Meet:
 <table>
 <tr>
 <td align="center" width="250">
-<a href="https://www.linkedin.com/in/meet-patel-3b3b64401/">
+<a href="https://www.linkedin.com/in/tanvi-viramgama-ab54893b9/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <br/>
@@ -237,6 +237,6 @@ class Meet:
 
 ### ⭐ Thanks for visiting my profile
 
-**From [meet6949](https://github.com/meet6949)**
+**From [tanviviramgama-a11y](https://github.com/meet6949)**
 
 </div>
