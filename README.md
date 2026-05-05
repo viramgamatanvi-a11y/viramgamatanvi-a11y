@@ -206,7 +206,7 @@ class tanvi:
 </td>
 
 <td align="center" width="250">
-<a href="viramgamatanvi@gmail.com">
+<a href="mailto:viramgamatanvi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <br/>
@@ -221,19 +221,18 @@ class tanvi:
 <sub><b>Explore My Code</b></sub>
 </td>
 
-
+</tr>
+</table>
 
 <br/>
 
----
-
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
 ### ⭐ Thanks for visiting my profile
 
-**From [tanviviramgama-a11y](https://github.com/viramgamatanvi-a11y)**
+**From [viramgamatanvi](https://github.com/viramgamatanvi-a11y)**
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
 </div>
